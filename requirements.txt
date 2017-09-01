@@ -5,3 +5,6 @@ notebook
 numpy
 matplotlib
 scipy
+scikit-learn
+pandas
+ggplot
